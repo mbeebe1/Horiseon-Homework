@@ -8,32 +8,40 @@ body {
     background-color: #d9dcd6;
 }
 
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
-}
-
-.header h1 {
+    
+    h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+<<<<<<< HEAD
 .header h1 .seo {
     color: #d9dcd6;
 }
 
 .header div {
+=======
+    div {
+>>>>>>> 0b8bfa179934e83902eb5279f9efc8f4669adb86
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+<<<<<<< HEAD
 /* the . header div ul did not provide a noticeable function so it was taken out*/
 
 .header div ul li {
+=======
+
+ li {
+>>>>>>> 0b8bfa179934e83902eb5279f9efc8f4669adb86
     display: inline-block;
     margin-left: 25px;
 }
